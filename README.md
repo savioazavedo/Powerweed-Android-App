@@ -16,8 +16,8 @@ The app is accompanied by a ASP.net-SQL server backend hosted on Microsoft Azure
 
 <b> Screenshots Mobile App </b>
 
-![myimage-alt-tag]
-(https://raw.githubusercontent.com/savioazavedo/Powerweed-Android-App/blob/master/screenshots/View%20Plan.JPG)
+![test]
+(https://raw.githubusercontent.com/savioazavedo/Powerweed-Android-App/blob/master/screenshots/View%20Plan.JPG?raw=true)
 
 
 
