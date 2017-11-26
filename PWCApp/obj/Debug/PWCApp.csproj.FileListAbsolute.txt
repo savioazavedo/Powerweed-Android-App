@@ -1,0 +1,63 @@
+C:\Users\Braden Johnstone\Desktop\PWC\PWCApp\PWCApp\bin\Debug\PWCApp.dll
+C:\Users\Braden Johnstone\Desktop\PWC\PWCApp\PWCApp\bin\Debug\PWCApp.pdb
+C:\Users\Braden Johnstone\Desktop\PWC\PWCApp\PWCApp\bin\Debug\PWCApp.PWCApp.apk
+C:\Users\Braden Johnstone\Desktop\PWC\PWCApp\PWCApp\bin\Debug\PWCApp.PWCApp-Signed.apk
+C:\Users\Braden Johnstone\Desktop\PWC\PWCApp\PWCApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Braden Johnstone\Desktop\PWC\PWCApp\PWCApp\bin\Debug\RestSharp.dll
+C:\Users\Braden Johnstone\Desktop\PWC\PWCApp\PWCApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Braden Johnstone\Desktop\PWC\PWCApp\PWCApp\bin\Debug\RestSharp.xml
+C:\Users\Braden Johnstone\Desktop\PWC\PWCApp\PWCApp\obj\Debug\PWCApp.csproj.CoreCompileInputs.cache
+C:\Users\Braden Johnstone\Desktop\PWC\PWCApp\PWCApp\obj\Debug\PWCApp.dll
+C:\Users\Braden Johnstone\Desktop\PWC\PWCApp\PWCApp\obj\Debug\PWCApp.pdb
+C:\Users\Braden Johnstone\Desktop\PWC\PWCApp\PWCApp\obj\Debug\android\bin\PWCApp.PWCApp.apk
+C:\Users\Braden Johnstone\Desktop\PWC\PWCApp\PWCApp\obj\Debug\res\layout\main.xml
+C:\Users\Braden Johnstone\Desktop\PWC\PWCApp\PWCApp\obj\Debug\res\layout\assignjobp2.xml
+C:\Users\Braden Johnstone\Desktop\PWC\PWCApp\PWCApp\obj\Debug\res\layout\assignjobp3.xml
+C:\Users\Braden Johnstone\Desktop\PWC\PWCApp\PWCApp\obj\Debug\res\layout\assignjobp4.xml
+C:\Users\Braden Johnstone\Desktop\PWC\PWCApp\PWCApp\obj\Debug\res\layout\editemployees1.xml
+C:\Users\Braden Johnstone\Desktop\PWC\PWCApp\PWCApp\obj\Debug\res\layout\editemployees2.xml
+C:\Users\Braden Johnstone\Desktop\PWC\PWCApp\PWCApp\obj\Debug\res\values\strings.xml
+C:\Users\Braden Johnstone\Desktop\PWC\PWCApp\PWCApp\obj\Debug\res\drawable\custombutton1.xml
+C:\Users\Braden Johnstone\Desktop\PWC\PWCApp\PWCApp\obj\Debug\res\drawable\powerweedcontrol.icon.jpg
+C:\Users\Braden Johnstone\Desktop\PWC\PWCApp\PWCApp\obj\Debug\res\drawable\contacts-xxl.png
+C:\Users\Braden Johnstone\Desktop\PWC\PWCApp\PWCApp\obj\Debug\res\drawable\contacts.png
+C:\Users\Braden Johnstone\Desktop\PWC\PWCApp\PWCApp\obj\Debug\R.cs.flag
+C:\Users\Braden Johnstone\Desktop\PWC\PWCApp\PWCApp\obj\Debug\uploadflags.txt
+E:\PWCApp\PWCApp\obj\Debug\PWCApp.csproj.CoreCompileInputs.cache
+E:\PWCApp\PWCApp\bin\Debug\PWCApp.dll
+E:\PWCApp\PWCApp\bin\Debug\PWCApp.pdb
+E:\PWCApp\PWCApp\bin\Debug\PWCApp.PWCApp.apk
+E:\PWCApp\PWCApp\bin\Debug\PWCApp.PWCApp-Signed.apk
+E:\PWCApp\PWCApp\bin\Debug\Newtonsoft.Json.dll
+E:\PWCApp\PWCApp\bin\Debug\RestSharp.dll
+E:\PWCApp\PWCApp\bin\Debug\Newtonsoft.Json.xml
+E:\PWCApp\PWCApp\bin\Debug\RestSharp.xml
+E:\PWCApp\PWCApp\obj\Debug\PWCApp.dll
+E:\PWCApp\PWCApp\obj\Debug\PWCApp.pdb
+E:\PWCApp\PWCApp\obj\Debug\android\bin\PWCApp.PWCApp.apk
+E:\PWCApp\PWCApp\obj\Debug\res\layout\main.xml
+E:\PWCApp\PWCApp\obj\Debug\res\layout\assignjobp2.xml
+E:\PWCApp\PWCApp\obj\Debug\res\layout\assignjobp3.xml
+E:\PWCApp\PWCApp\obj\Debug\res\layout\assignjobp4.xml
+E:\PWCApp\PWCApp\obj\Debug\res\layout\editemployees1.xml
+E:\PWCApp\PWCApp\obj\Debug\res\layout\editemployees2.xml
+E:\PWCApp\PWCApp\obj\Debug\res\layout\customrow.xml
+E:\PWCApp\PWCApp\obj\Debug\res\layout\customemployees.xml
+E:\PWCApp\PWCApp\obj\Debug\res\layout\viewtodaysplan.xml
+E:\PWCApp\PWCApp\obj\Debug\res\values\strings.xml
+E:\PWCApp\PWCApp\obj\Debug\res\drawable\custombutton1.xml
+E:\PWCApp\PWCApp\obj\Debug\res\drawable\powerweedcontrol.icon.jpg
+E:\PWCApp\PWCApp\obj\Debug\res\drawable\contactsxxl.png
+E:\PWCApp\PWCApp\obj\Debug\res\drawable\contacts.png
+E:\PWCApp\PWCApp\obj\Debug\res\drawable\arrowright.png
+E:\PWCApp\PWCApp\obj\Debug\res\drawable\icon.png
+E:\PWCApp\PWCApp\obj\Debug\res\drawable\pwcicon.png
+E:\PWCApp\PWCApp\obj\Debug\res\layout\list_item.xml
+E:\PWCApp\PWCApp\obj\Debug\R.cs.flag
+E:\PWCApp\PWCApp\obj\Debug\uploadflags.txt
+E:\PWCApp\PWCApp\obj\Debug\res\drawable\appbackground.jpg
+E:\PWCApp\PWCApp\obj\Debug\res\drawable\newlogo.png
+E:\PWCApp\PWCApp\obj\Debug\res\layout\editplanitem.xml
+E:\PWCApp\PWCApp\obj\Debug\PWCApp.csprojResolveAssemblyReference.cache
+E:\PWCApp\PWCApp\bin\Debug\PWCApp.dll.mdb
+E:\PWCApp\PWCApp\obj\Debug\android\assets\PWCApp.dll.mdb

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/appbackground"
+    android:weightSum="12">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/linearLayout4"
+        android:layout_weight="1">
+        <TextView
+            android:text="JobName - Client - ID"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtSelectedJob"
+            android:textSize="26dp"
+            android:textStyle="normal"
+            android:typeface="normal"
+            android:textColor="@android:color/background_light"
+            android:gravity="center"
+            android:padding="10dp"
+            android:layout_marginLeft="9dp"
+            android:layout_marginRight="9dp"
+            android:alpha="0.5"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:background="@android:color/background_dark" />
+        <Button
+            android:text="Date: "
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnSelectDate"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:layout_marginBottom="5dp"
+            android:shadowColor="#00000000"
+            android:alpha="0.9" />
+        <Button
+            android:text="Start Time: 06:00:00"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnSelectTime"
+            android:layout_marginStart="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:shadowColor="#00000000"
+            android:alpha="0.9" />
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtTruckNumbers"
+            android:hint="Truck numbers:"
+            android:layout_marginRight="5dp"
+            android:layout_marginLeft="5dp"
+            android:backgroundTint="#ff97c940"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="5dp"
+            android:shadowColor="#00000000"
+            android:backgroundTintMode="multiply"
+            android:textColorHint="@android:color/background_light"
+            android:layout_weight="1"
+            android:background="@android:color/background_dark"
+            android:alpha="0.5" />
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtArea"
+            android:hint="Area:"
+            android:layout_marginRight="5dp"
+            android:layout_marginLeft="5dp"
+            android:backgroundTint="#ff97c940"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="5dp"
+            android:shadowColor="#00000000"
+            android:backgroundTintMode="multiply"
+            android:textColorHint="@android:color/background_light"
+            android:layout_weight="1"
+            android:background="@android:color/background_dark"
+            android:alpha="0.5" />
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/linearLayout2"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp">
+            <AutoCompleteTextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/actxtWorker"
+                android:layout_weight="1"
+                android:hint="Search for worker:"
+                android:layout_marginLeft="5dp"
+                android:textColorHint="@android:color/background_light"
+                android:layout_marginRight="2dp"
+                android:backgroundTint="#ff97c940"
+                android:backgroundTintMode="multiply"
+                android:background="@android:color/background_dark"
+                android:alpha="0.5" />
+        </LinearLayout>
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/lvCurrentWorkers"
+            android:background="@android:color/background_light"
+            android:layout_marginLeft="7dp"
+            android:layout_marginRight="7dp"
+            android:alpha="0.95"
+            android:layout_marginTop="5dp"
+            android:minHeight="25px"
+            android:minWidth="25px"
+            android:layout_weight="20" />
+        <LinearLayout
+            android:orientation="horizontal"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/linearLayout1"
+            android:layout_marginTop="3dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1">
+            <Button
+                android:text="Back"
+                android:id="@+id/btnBackAJP3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_marginBottom="7dp"
+                android:layout_marginTop="7dp"
+                android:padding="5dp"
+                android:textColor="@android:color/background_light"
+                android:layout_marginLeft="2dp"
+                android:alpha="0.9" />
+            <Button
+                android:text="Next"
+                android:id="@+id/btnNextAJP3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_marginLeft="5dp"
+                android:layout_marginBottom="7dp"
+                android:layout_marginTop="7dp"
+                android:padding="5dp"
+                android:textColor="@android:color/background_light"
+                android:layout_marginRight="2dp"
+                android:alpha="0.9" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

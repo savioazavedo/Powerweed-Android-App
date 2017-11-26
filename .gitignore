@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/PWCApp/v15/Server/sqlite3/db.lock
+/.vs/PWCApp/v15/sqlite3/db.lock
