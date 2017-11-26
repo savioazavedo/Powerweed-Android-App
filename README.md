@@ -14,6 +14,8 @@ The app is accompanied by a ASP.net-SQL server backend hosted on Microsoft Azure
 - To view plans or create plans for the future dates 
 - To mark employees as Available / Unavailable
 
+<b> Screenshots </b>
+
 ![homescreen](https://user-images.githubusercontent.com/1042107/33244970-310ca6e4-d366-11e7-9ca8-1c41c5c2840a.JPG)
 
 ![jobscreen](https://user-images.githubusercontent.com/1042107/33244983-47e30fca-d366-11e7-9804-3288d3860fc7.JPG)
